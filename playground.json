@@ -14,5 +14,6 @@
 	"plugins": ["wapuugotchi"],
 	"siteOptions": {
 		"permalink_structure": "/%postname%/"
-	}
+	},
+	"steps": []
 }
