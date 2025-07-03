@@ -1,9 +1,9 @@
 {
 	"$schema": "https://playground.wordpress.net/blueprint-schema.json",
 	"meta": {
-		"title": "Demo of Twenty-Twenty-Five theme",
-		"description": "Blueprint with demo content for the Twenty-Twenty-Five default theme",
-		"author": "bph",
+		"title": "Demo Wapuugotchi",
+		"description": "Demo Wapuugotchi",
+		"author": "wapuugotchi",
 		"categories": ["Themes", "default"]
 	},
 	"landingPage": "/",
